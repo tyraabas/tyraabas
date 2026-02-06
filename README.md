@@ -2,7 +2,7 @@
 
 🎓 Part-Time Computer Science Student 💻  
 🌱 Currently learning **Microsoft Access & Database Systems**  
-🚀 Building simple management systems  
+🚀 Building simple leave management systems  
 ⚡ Fun fact: I’m also a metalhead 🤘
 
 ---
