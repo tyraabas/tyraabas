@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Athirah✨
 
-<!--
-**tyraabas/tyraabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Part-Time Computer Science Student 💻  
+🌱 Currently learning **Microsoft Access & Database Systems**  
+🚀 Building simple management systems  
+⚡ Fun fact: I’m also a metalhead 🤘
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-F4A7B9?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-DB7093?style=for-the-badge)
+![VBA](https://img.shields.io/badge/VBA-C71585?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-8B008B?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-basic-FF69B4?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-basic-FF1493?style=for-the-badge)
+
+
+
+
+
+
+
